@@ -1,0 +1,6 @@
+C:\Users\m.starukhin\source\repos\TestRevitPlugin\TestRevitPlugin\obj\Debug\TestRevitPlugin.csproj.AssemblyReference.cache
+C:\Users\m.starukhin\source\repos\TestRevitPlugin\TestRevitPlugin\obj\Debug\TestRevitPlugin.csproj.CoreCompileInputs.cache
+C:\Users\m.starukhin\source\repos\TestRevitPlugin\TestRevitPlugin\bin\Debug\TestRevitPlugin.dll
+C:\Users\m.starukhin\source\repos\TestRevitPlugin\TestRevitPlugin\bin\Debug\TestRevitPlugin.pdb
+C:\Users\m.starukhin\source\repos\TestRevitPlugin\TestRevitPlugin\obj\Debug\TestRevitPlugin.dll
+C:\Users\m.starukhin\source\repos\TestRevitPlugin\TestRevitPlugin\obj\Debug\TestRevitPlugin.pdb

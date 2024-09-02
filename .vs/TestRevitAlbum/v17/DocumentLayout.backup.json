@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m.starukhin\\source\\repos\\revitPluginAlbums\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F87E93F8-0063-45BD-A663-FDE1A8E54580}|TestRevitPlugin\\TestRevitAlbum.csproj|C:\\Users\\m.starukhin\\source\\repos\\revitPluginAlbums\\testrevitplugin\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87E93F8-0063-45BD-A663-FDE1A8E54580}|TestRevitPlugin\\TestRevitAlbum.csproj|solutionrelative:testrevitplugin\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87E93F8-0063-45BD-A663-FDE1A8E54580}|TestRevitPlugin\\TestRevitAlbum.csproj|c:\\users\\m.starukhin\\source\\repos\\revitpluginalbums\\testrevitplugin\\view\\common\\colorsproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87E93F8-0063-45BD-A663-FDE1A8E54580}|TestRevitPlugin\\TestRevitAlbum.csproj|solutionrelative:testrevitplugin\\view\\common\\colorsproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87E93F8-0063-45BD-A663-FDE1A8E54580}|TestRevitPlugin\\TestRevitAlbum.csproj|C:\\Users\\m.starukhin\\source\\repos\\revitPluginAlbums\\testrevitplugin\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F87E93F8-0063-45BD-A663-FDE1A8E54580}|TestRevitPlugin\\TestRevitAlbum.csproj|solutionrelative:testrevitplugin\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87E93F8-0063-45BD-A663-FDE1A8E54580}|TestRevitPlugin\\TestRevitAlbum.csproj|C:\\Users\\m.starukhin\\source\\repos\\revitPluginAlbums\\testrevitplugin\\view\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87E93F8-0063-45BD-A663-FDE1A8E54580}|TestRevitPlugin\\TestRevitAlbum.csproj|solutionrelative:testrevitplugin\\view\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87E93F8-0063-45BD-A663-FDE1A8E54580}|TestRevitPlugin\\TestRevitAlbum.csproj|C:\\Users\\m.starukhin\\source\\repos\\revitPluginAlbums\\testrevitplugin\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F87E93F8-0063-45BD-A663-FDE1A8E54580}|TestRevitPlugin\\TestRevitAlbum.csproj|solutionrelative:testrevitplugin\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87E93F8-0063-45BD-A663-FDE1A8E54580}|TestRevitPlugin\\TestRevitAlbum.csproj|C:\\Users\\m.starukhin\\source\\repos\\revitPluginAlbums\\testrevitplugin\\revit\\appalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87E93F8-0063-45BD-A663-FDE1A8E54580}|TestRevitPlugin\\TestRevitAlbum.csproj|solutionrelative:testrevitplugin\\revit\\appalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColorsProject.cs",
+              "DocumentMoniker": "C:\\Users\\m.starukhin\\source\\repos\\revitPluginAlbums\\TestRevitPlugin\\View\\Common\\ColorsProject.cs",
+              "RelativeDocumentMoniker": "TestRevitPlugin\\View\\Common\\ColorsProject.cs",
+              "ToolTip": "C:\\Users\\m.starukhin\\source\\repos\\revitPluginAlbums\\TestRevitPlugin\\View\\Common\\ColorsProject.cs",
+              "RelativeToolTip": "TestRevitPlugin\\View\\Common\\ColorsProject.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:51:58.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\m.starukhin\\source\\repos\\revitPluginAlbums\\TestRevitPlugin\\packages.config",
+              "RelativeDocumentMoniker": "TestRevitPlugin\\packages.config",
+              "ToolTip": "C:\\Users\\m.starukhin\\source\\repos\\revitPluginAlbums\\TestRevitPlugin\\packages.config",
+              "RelativeToolTip": "TestRevitPlugin\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-30T08:38:03.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppAlbum.cs",
+              "DocumentMoniker": "C:\\Users\\m.starukhin\\source\\repos\\revitPluginAlbums\\TestRevitPlugin\\Revit\\AppAlbum.cs",
+              "RelativeDocumentMoniker": "TestRevitPlugin\\Revit\\AppAlbum.cs",
+              "ToolTip": "C:\\Users\\m.starukhin\\source\\repos\\revitPluginAlbums\\TestRevitPlugin\\Revit\\AppAlbum.cs",
+              "RelativeToolTip": "TestRevitPlugin\\Revit\\AppAlbum.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowB8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:57:28.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\m.starukhin\\source\\repos\\revitPluginAlbums\\TestRevitPlugin\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TestRevitPlugin\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\m.starukhin\\source\\repos\\revitPluginAlbums\\TestRevitPlugin\\View\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "TestRevitPlugin\\View\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAWwIMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:51:53.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\m.starukhin\\source\\repos\\revitPluginAlbums\\TestRevitPlugin\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TestRevitPlugin\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\m.starukhin\\source\\repos\\revitPluginAlbums\\TestRevitPlugin\\View\\MainWindow.xaml",
+              "RelativeToolTip": "TestRevitPlugin\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-29T11:51:54.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\m.starukhin\\source\\repos\\revitPluginAlbums\\TestRevitPlugin\\View\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "TestRevitPlugin\\View\\Models\\Album.cs",
+              "ToolTip": "C:\\Users\\m.starukhin\\source\\repos\\revitPluginAlbums\\TestRevitPlugin\\View\\Models\\Album.cs",
+              "RelativeToolTip": "TestRevitPlugin\\View\\Models\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:51:52.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

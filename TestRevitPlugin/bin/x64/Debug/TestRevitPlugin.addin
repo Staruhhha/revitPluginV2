@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>TestRevitPlugin</Name>
+		<Assembly>TestRevitPlugin.dll</Assembly>
+		<AddInId>
+			76eb700a-2c85-4821-a78d-31429ecae9ed
+		</AddInId>
+		<FullClassName>TestRevitPlugin.Application</FullClassName>
+		<Text>Тест</Text>
+		<Vendor>starukhin.m</Vendor>
+		<VendorDescription>starukhin.m</VendorDescription>
+		<VisibilityMode>NotVisibleWhenActiveDocument</VisibilityMode>
+	</AddIn>
+</RevitAddIns>
